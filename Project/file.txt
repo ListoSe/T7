@@ -1,0 +1,6 @@
+Title: milk
+Price: 27.5
+Save term: 30
+Manufacturer date: 01.10.2022
+Finish date: 31.10.2022
+Sale 25% = 20.625
